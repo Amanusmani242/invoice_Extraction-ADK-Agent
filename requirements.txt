@@ -1,0 +1,12 @@
+# Pinning the version to avoid the [WIP] error in newer releases
+google-generativeai
+
+google-cloud-storage
+google-cloud-aiplatform
+pandas
+openpyxl
+python-dotenv
+PyYAML
+fastapi
+uvicorn[standard]
+google-adk
