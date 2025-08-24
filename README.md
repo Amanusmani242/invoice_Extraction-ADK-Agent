@@ -2,7 +2,7 @@
 title: "Invoice Extraction Asset"
 description: "A pipeline to automatically route, extract, and evaluate structured invoice data using Gemini 2.5 Flash and the Google ADK framework."
 author: "Aman Usmani"
-year: "2024"
+year: "2025"
 license: "MIT"
 ---
 
